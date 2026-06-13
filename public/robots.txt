@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://securify.io/sitemap.xml
+
+# Block internal routes
+Disallow: /api/
+Disallow: /dashboard/
+Disallow: /admin/
