@@ -1,12 +1,11 @@
  <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/<username>/<repo>/<branch>/public/logo.svg?sanitize=true"
+  <img src="https://raw.githubusercontent.com/<username>/<repo>/<branch>/public/logo.svg?sanitize=true"
     width="48"
     height="48"
-    alt="Securify Logo"
-  />
-</div>
-  # Securify
+    alt="Securify Logo"/>
+  </div>
+  
+  ## Securify
 
   **Enterprise Data Security for Modern Teams**
 
